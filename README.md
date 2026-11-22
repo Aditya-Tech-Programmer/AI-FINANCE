@@ -7,7 +7,7 @@
 
 ## 💻Woking App
 
-**Watch the live app:** financewitai.streamlit.app
+**Watch the live app:** https://financewithai.streamlit.app/
 
 ## What it does
 
