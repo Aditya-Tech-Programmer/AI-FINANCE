@@ -5,6 +5,10 @@
 
 **Watch the demo:** https://youtu.be/YQFipDu2qT4
 
+## 💻Woking App
+
+**Watch the live app:** financewitai.streamlit.app
+
 ## What it does
 
 Most people in India track money across UPI apps, bank SMS alerts and spreadsheets, and struggle to see where it goes, whether they are saving enough, which tax regime suits them, or whether a "KYC update" message is a scam. ArthaAgent turns that raw data into clear decisions, explained in plain words in English, Hinglish, Hindi or Marathi.
