@@ -1,0 +1,39 @@
+{
+ "akadu2007@gmail.com": {
+  "salt": "f190729bb11037a63414a53cbd5fc758",
+  "hash": "5e47b7feef50b03e69719ceb40e2c65dc489322a29d70dfb90ce76c6dddc84c5",
+  "profile": {
+   "name": "Aditya Kadu",
+   "email": "akadu2007@gmail.com",
+   "phone": "9096798074",
+   "age": 28,
+   "gender": "Male",
+   "marital": "Single",
+   "dependents": 0,
+   "city": "Pen",
+   "state": "Maharashtra",
+   "employment": "Salaried",
+   "occupation": "",
+   "salary": 60000,
+   "other_income": 0,
+   "expenses": 20000,
+   "rent": 0,
+   "emi": 0,
+   "sip": 0,
+   "savings": 150000,
+   "investments": 0,
+   "risk": "Moderate",
+   "goal": "Build wealth",
+   "regime": "Not sure",
+   "goal_amount": 10000000,
+   "goal_years": 15,
+   "retire_age": 55,
+   "lang": "English",
+   "health_ins": false,
+   "term_ins": false
+  },
+  "created": 1795333836.3254244,
+  "fails": 0,
+  "lock": 0
+ }
+}
