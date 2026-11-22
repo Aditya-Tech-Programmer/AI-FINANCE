@@ -1,7 +1,6 @@
 # 💰💰ArthaAgent: your money, run by an AI agent💰💰
 
 **Built by Team Code Catalysts** for Arthaton 2026
-
 ## 🎥 Demo video
 
 **Watch the demo:** https://youtu.be/YQFipDu2qT4
