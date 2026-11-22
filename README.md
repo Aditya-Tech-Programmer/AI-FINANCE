@@ -2,8 +2,6 @@
 
 **Built by Team Code Catalysts** for Arthaton 2026
 
-![ArthaAgent thumbnail](thumbnail_team_code_catalysts.png)
-
 ## 🎥 Demo video
 
 **Watch the demo:** https://youtu.be/YQFipDu2qT4
