@@ -43,7 +43,7 @@ Other features: email and password sign-in (salted and hashed with PBKDF2), a on
 | Service | Used for |
 |---|---|
 | **Google Gemini API** via the `google-genai` Python SDK | Agent chat with automatic function calling, vision, JSON output and text generation |
-| Model: `gemini-flash-latest` by default | Change it in the sidebar or with the `GEMINI_MODEL` environment variable |
+| Model: `gemini-flash-lite-latest` by default | Change it in the sidebar or with the `GEMINI_MODEL` environment variable |
 | Yahoo Finance public chart endpoint | Index, USD/INR, gold and crude quotes for Market News (no key needed) |
 | Public RSS feeds (Economic Times, Mint, Moneycontrol, Business Standard) | Market headlines (no key needed) |
 
